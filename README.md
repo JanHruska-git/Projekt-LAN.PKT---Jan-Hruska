@@ -1,1 +1,1 @@
-# Projekt-LAN.PKT---Jan-Hru-ka
+# Projekt-LAN.PKT---Jan-Hruska
