@@ -13,4 +13,4 @@ Síť se skládá ze dvou switchů (S1, S2). Na S1 jsou připojena klientská PC
 - **Konfigurace:** Switche byly konfigurovány přes terminál z Laptopu.
 
 ## Snímky obrazovky
-(Sem pak vložíš ty fotky, co jsi udělal)
+
